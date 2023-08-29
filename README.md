@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9027ab6-12ce-4786-8082-da9e7ee942f4/deploy-status)](https://app.netlify.com/sites/cadastrojscrud/deploys)
 # CRUD em JavaScript, CSS e HTML
 
 Neste projeto, desenvolvi um CRUD simples utilizando apenas JavaScript puro, CSS e HTML. O objetivo principal era criar um CRUD (Create, Read, Update, Delete) que permite a criação, leitura, atualização e exclusão de registros de uma lista.
