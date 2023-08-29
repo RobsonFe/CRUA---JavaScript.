@@ -124,6 +124,11 @@ Este projeto servirá como base para incorporar funcionalidades semelhantes em p
 - JavaScript: Lógica e interatividade do CRUD.
 - CSS: Estilização e layout da interface.
 - HTML: Estrutura da página.
+- Netlify: O site está hospedado na plataforma Netlify para acesso online.
+
+## Demonstração
+
+O projeto pode ser visualizado e acessado [aqui](https://cadastrojscrud.netlify.app/).
 
 ## Finalidade
 
